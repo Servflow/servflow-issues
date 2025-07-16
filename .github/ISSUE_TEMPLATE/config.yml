@@ -1,11 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Servflow Support
-    url: https://servflow.com/support
+    url: https://servflow.io/support
     about: Please contact our support team for urgent issues or private inquiries.
-  - name: Servflow Documentation
-    url: https://docs.servflow.com
-    about: Check our documentation for guides and tutorials.
-  - name: Servflow Community
-    url: https://community.servflow.com
-    about: Join our community forum to discuss Servflow with other users.
