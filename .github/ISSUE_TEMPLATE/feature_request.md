@@ -7,31 +7,27 @@ assignees: ''
 ---
 
 ## Feature Description
-<!-- A clear and concise description of the feature you'd like to see -->
+<!-- A clear and concise description of the feature you'd like to see in Servflow -->
 
 ## Problem It Solves
-<!-- Describe the problem or pain point this feature would address -->
+<!-- What problem or challenge would this feature help you overcome? -->
 
-## Proposed Solution
-<!-- Describe how you envision this feature working -->
+## How Would You Use It?
+<!-- Describe how you would use this feature in your work -->
 
-## Use Cases
-<!-- Provide specific use cases for this feature -->
-1. 
-2. 
-3. 
+## Example Scenario
+<!-- Give an example of when and how you would use this feature -->
 
-## Alternatives Considered
-<!-- Have you considered any alternative solutions or workarounds? -->
+## Screenshots or Mockups
+<!-- If you have any visual ideas, feel free to add them here (optional) -->
 
-## Mockups or Examples
-<!-- If applicable, add mockups, diagrams, or examples from other products -->
+## Similar Features Elsewhere
+<!-- Have you seen similar features in other tools? Please describe (optional) -->
 
 ## Additional Context
-<!-- Add any other context or screenshots about the feature request here -->
+<!-- Any other information that might help us understand your request -->
 
-## Impact
-<!-- How would this feature impact your workflow or productivity? -->
-- [ ] Low impact (nice to have)
-- [ ] Medium impact (would improve efficiency)
-- [ ] High impact (would enable new workflows)
+## How Important Is This Feature To You?
+- [ ] Nice to have
+- [ ] Important
+- [ ] Critical to my workflow

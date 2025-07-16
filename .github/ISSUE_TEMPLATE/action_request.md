@@ -6,44 +6,65 @@ labels: action-request
 assignees: ''
 ---
 
-## Action Description
-<!-- A clear and concise description of the action you'd like to see added -->
+## Action Name
+<!-- Suggest a name for this new action -->
 
-## Functionality
-<!-- Describe what this action should do and how it should work -->
+## What should this action do?
+<!-- Describe what you want this action to accomplish -->
 
-## Inputs
-<!-- List the inputs this action would need -->
-- Input 1: <!-- description, type, example -->
-- Input 2:
-- Input 3:
+## When would you use this action?
+<!-- Explain when you would use this action in your workflows -->
 
-## Outputs
-<!-- List the expected outputs from this action -->
-- Output 1: <!-- description, type, example -->
-- Output 2:
-- Output 3:
+## Action Fields
+<!-- What fields should this action have? Include names, types, and descriptions -->
+- Field name: <!-- e.g., API URL -->
+  - Type: <!-- e.g., text, number, dropdown, toggle -->
+  - Description: <!-- What this field is for -->
+  - Default value (if any): <!-- What should be the default value -->
 
-## Use Cases
-<!-- Describe the use cases for this action -->
-1. 
-2. 
-3. 
+- Field name:
+  - Type:
+  - Description:
+  - Default value (if any):
 
-## Similar Actions
-<!-- Are there any existing actions that are similar? How is this different? -->
+- Field name:
+  - Type:
+  - Description:
+  - Default value (if any):
 
-## Implementation Ideas
-<!-- If you have ideas about how this might be implemented, share them here -->
+## Expected Behavior
+<!-- Describe how the action should behave in different scenarios -->
+- When successful:
+- When there's an error:
+- Any special cases:
 
-## Trace Examples
-<!-- If you have trace examples that would benefit from this action, please provide them -->
+## Output Format
+<!-- What outputs would you want from this action? -->
+- Output name: <!-- e.g., response -->
+  - Type: <!-- e.g., object, text, number, array -->
+  - Description: <!-- What this output represents -->
 
-## Additional Context
-<!-- Add any other context, examples, or references -->
+- Output name:
+  - Type:
+  - Description:
 
-## Priority
-<!-- How important is this action to your workflows? -->
-- [ ] Low priority (nice to have)
-- [ ] Medium priority (would improve workflows)
-- [ ] High priority (blocking or significantly limiting functionality)
+## How would the output be used?
+<!-- Explain how you would use the action's output in your workflow -->
+<!-- e.g., "I would use the response data to populate a database" -->
+
+## Example scenario
+<!-- Describe a real-world example of how you'd use this action -->
+
+## Are there similar actions?
+<!-- Are there any existing Servflow actions that are similar? How is this different? -->
+
+## Screenshots or diagrams
+<!-- If you have any visuals that help explain your idea, add them here (optional) -->
+
+## How important is this action to you?
+- [ ] Nice to have
+- [ ] Important
+- [ ] Critical to my workflow
+
+## Additional information
+<!-- Any other details that might help us understand your request -->

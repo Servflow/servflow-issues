@@ -6,35 +6,30 @@ labels: feedback
 assignees: ''
 ---
 
-## Feedback Type
-<!-- What area of Servflow does this feedback relate to? -->
+## What aspect of Servflow are you providing feedback on?
+<!-- Which part of Servflow is this about? -->
 - [ ] User Interface
+- [ ] Dashboard
+- [ ] Workflows
 - [ ] Documentation
-- [ ] Performance
-- [ ] Workflow
 - [ ] Other: <!-- Please specify -->
 
-## Feedback Description
-<!-- A clear and detailed description of your feedback, suggestion, or observation -->
+## Your Feedback
+<!-- Tell us what you think or suggest -->
 
-## Current Experience
-<!-- Describe your current experience with this aspect of Servflow -->
+## What's your current experience?
+<!-- How does this currently work for you? -->
 
-## Desired Experience
-<!-- Describe how you would like this aspect to work or improve -->
+## How would you like it to work?
+<!-- Describe your ideal experience -->
 
-## Impact
-<!-- How would this improvement impact your experience with Servflow? -->
-- [ ] Low impact (minor inconvenience)
-- [ ] Medium impact (affects productivity)
-- [ ] High impact (significant obstacle)
+## Screenshots
+<!-- If you have screenshots that help explain your feedback, add them here (optional) -->
 
-## Screenshots or Examples
-<!-- If applicable, add screenshots, mockups, or examples to illustrate your feedback -->
+## How important is this to you?
+- [ ] Nice to have
+- [ ] Important
+- [ ] Very important
 
-## Additional Context
-<!-- Add any other context about your feedback here -->
-
-## Would you be willing to provide more details if needed?
-- [ ] Yes
-- [ ] No
+## Is there anything else we should know?
+<!-- Any other details that might help us understand your feedback -->

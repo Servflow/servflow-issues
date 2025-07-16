@@ -10,30 +10,29 @@ assignees: ''
 <!-- A clear and concise description of what the bug is -->
 
 ## Steps to Reproduce
-<!-- Steps to reproduce the behavior -->
+<!-- Steps to reproduce the behavior in the Servflow web app -->
 1. 
 2. 
 3. 
-4. 
 
 ## Expected Behavior
-<!-- A clear and concise description of what you expected to happen -->
+<!-- What you expected to happen -->
 
 ## Actual Behavior
 <!-- What actually happened instead -->
 
-## Trace Snapshot
-<!-- If applicable, add a trace snapshot of the issue -->
-<!-- You can copy and paste your trace ID or upload a screenshot -->
+## Workflow Information
+<!-- Which Servflow workflows were you using when you encountered the issue? -->
 
-## Environment Information
-- Browser: <!-- e.g. Chrome, Safari -->
-- OS: <!-- e.g. Windows, macOS, iOS -->
-- Servflow Version: <!-- if known -->
-- Other relevant details:
+## Trace Information
+<!-- If available, please include the Trace ID from your Servflow dashboard -->
+<!-- You can find this by clicking on the specific run in your history -->
 
-## Screenshots or Videos
-<!-- If applicable, add screenshots or videos to help explain your problem -->
+## Browser & Device
+<!-- What browser and device were you using? (e.g., Chrome on Mac, Safari on iPhone) -->
+
+## Screenshots
+<!-- If possible, add screenshots to help explain your problem -->
 
 ## Additional Context
-<!-- Add any other context about the problem here -->
+<!-- Add any other details that might help us understand the issue -->

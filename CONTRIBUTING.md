@@ -8,7 +8,7 @@ We use this repository to track several types of requests:
 
 1. **Bug Reports** - Something isn't working as expected
 2. **Feature Requests** - Suggestions for new functionality
-3. **Action Requests** - Requests for new backend steps/actions
+3. **Action Requests** - Requests for new workflow actions
 4. **General Feedback** - Other suggestions or observations
 
 ## How to Submit an Effective Issue
@@ -17,9 +17,10 @@ We use this repository to track several types of requests:
 
 1. **Search existing issues** to avoid duplicates
 2. **Gather relevant information**:
-   - For bugs: Steps to reproduce, expected vs. actual behavior, trace snapshots
-   - For features/actions: Clear use cases and examples
-   - Screenshots or videos when applicable
+   - For bugs: Steps to reproduce, expected vs. actual behavior, trace IDs
+   - For features: Clear use cases and examples
+   - For actions: Fields needed, expected behaviors, output format and usage
+   - Screenshots when applicable
 
 ### When Submitting
 
@@ -32,11 +33,11 @@ We use this repository to track several types of requests:
 
 ## Including Trace Information
 
-Trace information is crucial for debugging issues. To include it:
+Trace information is helpful for debugging issues. To include it:
 
-1. **Trace snapshots**: Export a snapshot from your Servflow dashboard and attach it to the issue
-2. **Trace IDs**: Include the Trace ID if available
-3. **Replication steps**: Provide detailed steps to reproduce the trace
+1. **Trace IDs**: Include the Trace ID from your Servflow dashboard
+2. **Workflow name**: Mention which workflow you were using
+3. **Replication steps**: Provide detailed steps to reproduce the issue
 
 ## What Happens After Submission
 
@@ -50,21 +51,20 @@ Trace information is crucial for debugging issues. To include it:
 1. **Open**: Issue is submitted
 2. **Triage**: Issue is reviewed by the team
 3. **In Progress**: Work has begun on the issue
-4. **Review**: Solution is being reviewed
-5. **Closed**: Issue is resolved or determined not actionable
+4. **Closed**: Issue is resolved or determined not actionable
 
 ## Labels We Use
 
 - `bug`: Something isn't working correctly
 - `enhancement`: New feature or request
-- `action-request`: Request for a new backend action
+- `action-request`: Request for a new workflow action
 - `documentation`: Improvements to documentation
 - `duplicate`: This issue already exists
-- `good first issue`: Good for newcomers
-- `help wanted`: Extra attention is needed
-- `invalid`: This doesn't seem right
 - `question`: Further information is requested
-- `wontfix`: This will not be worked on
+- `ui`: Related to the user interface
+- `workflows`: Related to workflow functionality
+- `high-priority`: Issues that need immediate attention
+- `investigating`: Currently being looked into
 
 ## Code of Conduct
 
